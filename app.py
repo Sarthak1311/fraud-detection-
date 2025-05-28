@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # Load model
-model = joblib.load("/Users/sarthaktyagi/Desktop/projects /fraudDetection/notebook/bestRF.joblib")
+model = joblib.load("notebook/bestRF.joblib")
 
 def main():
     st.set_page_config(page_title="Fraud Detector", page_icon="🕵️‍♂️", layout="centered")
