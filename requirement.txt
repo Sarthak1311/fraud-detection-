@@ -1,3 +1,12 @@
-pandas 
-numpy 
 ipykernel 
+pandas
+numpy
+scikit-learn
+xgboost        # if using gradient boosting
+lightgbm       # alternative to xgboost
+imbalanced-learn
+joblib
+pickle
+matplotlib
+seaborn
+streamlit
