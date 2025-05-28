@@ -1,3 +1,4 @@
+joblib
 ipykernel
 pandas
 numpy
@@ -5,7 +6,7 @@ scikit-learn
 xgboost
 lightgbm
 imbalanced-learn
-joblib
+
 matplotlib
 seaborn
 streamlit
