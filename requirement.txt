@@ -1,12 +1,11 @@
-ipykernel 
+ipykernel
 pandas
 numpy
 scikit-learn
-xgboost        # if using gradient boosting
-lightgbm       # alternative to xgboost
+xgboost
+lightgbm
 imbalanced-learn
 joblib
-pickle
 matplotlib
 seaborn
 streamlit
